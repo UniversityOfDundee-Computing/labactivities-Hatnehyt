@@ -1,0 +1,7 @@
+Queen Lizzie's death
+
+On 8 September 2022, Elizabeth II, Queen of the United Kingdom and the other Commonwealth realms, and the oldest living and longest-reigning British monarch, died at the age of 96 at Balmoral Castle in Aberdeenshire, Scotland. Her death was publicly announced at 18:30 BST. She was succeeded by her eldest child, Charles III.
+
+The Queen's death set in motion Operation London Bridge, a collection of plans including arrangements for her funeral, including Operation Unicorn, which set protocols for the Queen's death occurring in Scotland. The United Kingdom observed a national mourning period of 10 days. The Queen lay in state in Westminster Hall from 14 to 19 September, during which time an estimated 250,000 people queued to pay their respects.
+
+A state funeral service was held at Westminster Abbey on 19 September, followed by a committal service at St George's Chapel at Windsor Castle. The Queen was interred in the King George VI Memorial Chapel at St George's. The occasion of her state funeral was a public holiday in the UK and several Commonwealth states. The state funeral was one of the United Kingdom's most watched special events, surpassing the wedding of Prince William and Catherine Middleton, the previous most watched royal event of the 21st century.
