@@ -6,7 +6,7 @@ This is a template repository that students should use when they are carrying ou
 
 1. Code Versioning and Async Working
 2. Introduction to HTML
-3. Introduction to CSS
+3. [Introduction to CSS](/labactivities-Hatnehyt/unit_03/RestrauntWebpage/R_Menu.html)
 4. CSS Frameworks
 5. Web Design Theory
 6. Assessement Week
