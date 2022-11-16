@@ -1,0 +1,49 @@
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #222;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #111;
+}
+
+li.current {
+	color: red;
+}
+#Mbox1{
+    height:50%;
+	display: flex;
+	justify-content: space-evenly;
+
+}
+#Mbox2{
+	height:50%;
+	display: flex;
+	justify-content: space-evenly;
+
+}
+html,body{
+	height:100%;
+}
+.card{
+	margin-top:50px;
+	height:70%;
+	width:300px;
+	background-color: red;
+}
