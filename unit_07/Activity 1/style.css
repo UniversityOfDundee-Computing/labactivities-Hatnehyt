@@ -1,0 +1,26 @@
+body{
+    background-color: grey;
+    height: 100%;
+    width:100%;
+    font-family: 'Brush Script MT', cursive;
+}
+#blackbox{
+    width:80%;
+    height:150px;
+    background-color: black;
+    margin:auto;
+    border-radius: 15px;
+}
+#contentwrapper{
+    display: flex;
+    justify-content: space-between;
+    width:80%;
+    margin:auto;
+    margin-top:20px;
+}
+.minibox{
+    height:100px;
+    width:100px;
+    background-color: black;
+    border-radius: 15px;
+}

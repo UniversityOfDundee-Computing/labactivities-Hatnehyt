@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="javascript.js"></script>
+    <title>ColourChanging</title>
+</head>
+
+<body id="body">
+    <div >
+        <h1 id="h1tag" style="text-align:center;">
+            Colour Responsive Page
+        </h1>
+    </div>
+    <div id="blackbox" onmouseover="blackSwitch()" onmouseout="revert()"></div>
+    <div id="contentwrapper">
+        <div class="minibox" id="redbox" style="background-color: #ff7e79;" onmouseover="redSwitch()" onmouseout="revert()"></div>
+        <div class="minibox" id="orangebox" style="background-color: #ffd479;" onmouseout="revert()" onmouseover="orangeSwitch()"></div>
+        <div class="minibox" id="yellowbox" style="background-color: #fffc79;" onmouseout="revert()" onmouseover="yellowSwitch()"></div>
+        <div class="minibox" id="lightgreenbox" style="background-color: #d4fb78;" onmouseout="revert() "onmouseover="lightgreenSwitch()"></div>
+        <div class="minibox" id="darkgreenbox" style="background-color: #73fb79;" onmouseout="revert()" onmouseover="darkgreenswitch()"></div>
+        <div class="minibox" id="cyanbox" style="background-color: #73fcd5;" onmouseout="revert()" onmouseover="cyanSwitch()"></div>
+        <div class="minibox" id="lightbluebox" style="background-color: #73fdff;" onmouseout="revert()" onmouseover="lightblueSwitch()"></div>
+        <div class="minibox" id="darkbluebox" style="background-color: #76d5ff;" onmouseout="revert()" onmouseover="darkblueSwitch()"></div>
+    </div>
+
+</body>
+
+</html>
